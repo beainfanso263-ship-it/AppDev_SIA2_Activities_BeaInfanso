@@ -12,12 +12,12 @@ This repository contains a compilation of all laboratory activities and projects
 
 List and explanation of the activities
 
-Activity 1 – Short description of the activity.
+* Activity 1 – Short description of the activity.
 
-Activity 2 – Short description of the activity.
+* Activity 2 – Short description of the activity.
 
-Activity 3 – Short description of the activity.
+* Activity 3 – Short description of the activity.
 
-Activity 4 – Short description of the activity.
+* Activity 4 – Short description of the activity.
 
-Activity 5 – Short description of the activity.
+* Activity 5 – Short description of the activity.
